@@ -1,1 +1,1 @@
-# PrimehubPay
+# Primehub Pay
